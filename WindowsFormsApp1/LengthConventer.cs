@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
+    // Ovo je drugi komentar.
     public class LengthConventer : IConvert
     {
         public double Convert(double value)
